@@ -1,4 +1,4 @@
-package com.multithreading._03_synchronizedMethodLockObject2;
+package com.multithreading._04_synchronizedMethodLockObject2;
 
 
 public class MyObject {

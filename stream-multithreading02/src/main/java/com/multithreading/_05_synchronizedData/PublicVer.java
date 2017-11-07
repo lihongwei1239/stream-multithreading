@@ -1,4 +1,4 @@
-package com.multithreading._04_synchronizedData;
+package com.multithreading._05_synchronizedData;
 
 public class PublicVer {
 
